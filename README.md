@@ -13,4 +13,4 @@ There are three sections:
 **Poster Profiles** Words and topics that specific posters prefer  <br />
 
 
-I recommend going [here](ewharton.github.io) to view this. It is static HTML with all of the code hidden for easy viewing. If you want the code, then open up USV.com_analysis.ipynb. 
+I recommend going [here](https://ewharton.github.io/) to view this. It is static HTML with all of the code hidden for easy viewing. If you want the code, then open up [USV.com_analysis.ipynb](USV.com_analysis.ipynb). 
